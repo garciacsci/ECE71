@@ -3,7 +3,7 @@
 #ifndef BOULDER_HPP
 #define BOULDER_HPP
 
-class Apple
+class Boulder
 {
     
 public:
