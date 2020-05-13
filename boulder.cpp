@@ -43,7 +43,7 @@
  }
  
  // Clears boulders from the board
-    void clearBoulder()
+    void Boulder::clearBoulder()
     {
     // Declare Variables
         int row=0, column=1;
